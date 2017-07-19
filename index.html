@@ -47,10 +47,10 @@
                 <a href="#about" onclick=$("#menu-close").click();>About Me</a>
             </li>
             <li>
-                <a href="#services" onclick=$("#menu-close").click();>Experience</a>
+                <a href="#services" onclick=$("#menu-close").click();>Projects</a>
             </li>
             <li>
-                <a href="#portfolio" onclick=$("#menu-close").click();>Project Portfolio</a>
+                <a href="#portfolio" onclick=$("#menu-close").click();>Experience</a>
             </li>
             <li>
                 <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
@@ -98,12 +98,12 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-cloud fa-stack-1x text-primary"></i>
+                                <i class="fa fa-icon-inbox fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>ThoughtBox</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Simplet yet effective tool to jot down tasks, deadlines and general thoughts.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -111,12 +111,12 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-compass fa-stack-1x text-primary"></i>
+                                <i class="fa fa-icon-bar-chart fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Personal Finance Tool</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Comprehensive tracking tool for personal finances.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -124,12 +124,12 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-flask fa-stack-1x text-primary"></i>
+                                <i class="fa fa-icon-comments-alt fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Weather and Twitter Chatbot</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Small chat bot that fetches twitter top trends and current weather.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -137,12 +137,12 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-shield fa-stack-1x text-primary"></i>
+                                <i class="fa fa-icon-smile fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Meme Generator</strong>
                                 </h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                                <p>Fun and creative meme generator on the web.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
     <!-- Callout -->
     <aside class="callout">
         <div class="text-vertical-center">
-            <h1>Vertically Centered Text</h1>
+            <h1>Professional, Stylish and Responsive Designs</h1>
         </div>
     </aside>
 
@@ -224,13 +224,13 @@
                     <br>
                     <ul class="list-inline">
                         <li>
-                            <a href="#"><i class="fa fa-github fa-fw fa-3x"></i></a>
+                            <a href="https://github.com/mdelarocha"><i class="fa fa-github fa-fw fa-3x"></i></a>
                         </li>
                         <li>
                             <a href="#"><i class="fa fa-file-pdf-o fa-fw fa-3x"></i></a>
                         </li>
                         <li>
-                            <a href="#"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
+                            <a href="https://www.linkedin.com/in/miguel-de-la-rocha-699327140/"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
                         </li>
                     </ul>
                     <hr class="small">
@@ -299,28 +299,6 @@
             }
         }
     });
-    // Disable Google Maps scrolling
-    // See http://stackoverflow.com/a/25904582/1607849
-    // Disable scroll zooming and bind back the click event
-    var onMapMouseleaveHandler = function(event) {
-        var that = $(this);
-        that.on('click', onMapClickHandler);
-        that.off('mouseleave', onMapMouseleaveHandler);
-        that.find('iframe').css("pointer-events", "none");
-    }
-    var onMapClickHandler = function(event) {
-            var that = $(this);
-            // Disable the click handler until the user leaves the map area
-            that.off('click', onMapClickHandler);
-            // Enable scrolling zoom
-            that.find('iframe').css("pointer-events", "auto");
-            // Handle the mouse leave event
-            that.on('mouseleave', onMapMouseleaveHandler);
-        }
-        // Enable map zooming with mouse scroll when the user clicks the map
-    $('.map').on('click', onMapClickHandler);
-    </script>
-
 </body>
 
 </html>
