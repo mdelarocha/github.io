@@ -6,15 +6,23 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jul 2017 12:15:35 -0600</pubDate>
-    <lastBuildDate>Thu, 20 Jul 2017 12:15:35 -0600</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2017 17:02:34 -0600</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2017 17:02:34 -0600</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>Residential Life (2016 - Present) Residential / Peer Advisor at University of Texas - Dallas</title>
-        <description>&lt;p&gt;Supervised and served as mentor and advisor for a floor of 24 residents by leading through experience in academic, professional and personal matters. \ &lt;br /&gt;
-Managed various administrative duties including maintenance requests, indicent reports and customer service in front desk office. \ &lt;br /&gt;
-Utilized organizational and public speaking skills to create and implement social events for the Residence Hall.&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supervised and served as mentor for a floor of 24 residents by leading through experience in academic, professional and personal matters.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Managed various administrative duties including maintenance requests, indicent reports and provided customer service at front desk office.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Utilized organizational and public speaking skills to create and implement social events for the Residence Hall.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Thu, 20 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/services/2017/07/20/services-3/</link>
@@ -27,9 +35,17 @@ Utilized organizational and public speaking skills to create and implement socia
     
       <item>
         <title>ASICA (Summer 2017) Information Technology and Databases Intern</title>
-        <description>&lt;p&gt;Interned at ASICA International in the Projects Division for Database Applications. \ &lt;br /&gt;
-  Developed a client application for a Credit Union to support accounting and human resources processes through Oracle Application Express and PL/SQL. \ &lt;br /&gt;
-  Designed and implemented a team project tracking tool to keep control of current tasks and goals.&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interned at ASICA International in the Projects Division for Database Applications.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Developed a client application for a Credit Union to support accounting and human resources processes through Oracle Application Express and PL/SQL.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Designed and implemented a team project tracking tool to keep control of current tasks and goals.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Wed, 19 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/services/2017/07/19/services-2/</link>
@@ -42,10 +58,20 @@ Utilized organizational and public speaking skills to create and implement socia
     
       <item>
         <title>ZETA Designs (2017 - Present) Chief Technology Officer</title>
-        <description>&lt;p&gt;Co-Founded &lt;a href=&quot;https://zetadesignshn.com/&quot;&gt;ZETA Designs&lt;/a&gt; to develop web platforms for Honduran enterprises and businesses with professional and responsive frameworks. \ &lt;br /&gt;
-  Reached out and took control of building a client base through networking and professional communication. \ &lt;br /&gt;
-  Built and maintained the framework of operations and distribution of services for present and future clients. \ &lt;br /&gt;
-  Check our website to see our online &lt;a href=&quot;https://zetadesignshn.com/#zetaportfolio&quot;&gt;portfolio&lt;/a&gt; and services.&lt;/p&gt;
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Co-Founded &lt;a href=&quot;https://zetadesignshn.com/&quot;&gt;ZETA Designs&lt;/a&gt; to develop web platforms for Honduran enterprises and businesses with professional and responsive frameworks.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reached out and took control of building a client base through networking and professional communication.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Built the framework of operations and distribution of services for present and future clients.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check our website to see our online &lt;a href=&quot;https://zetadesignshn.com/#zetaportfolio&quot;&gt;portfolio&lt;/a&gt; and services.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 18 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/services/2017/07/18/services-1/</link>

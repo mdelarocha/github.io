@@ -1,8 +1,13 @@
+<!-- Banner for Experience {Services} Section -->
 <section id="services">
-<!-- Page Content -->
-{% for post in site.categories["Services"] reversed %}
-  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-    {% if thecycle == 'odd' %}
+    <div class="banner2">
+        <div class="container">
+            <h2> Experience </h2>
+        </div>
+    </div>
+
+    <!-- Page Content -->
+    {% for post in site.categories["Services"] reversed %} {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %} {% if thecycle == 'even' %}
     <div class="content-section-a">
 
         <div class="container">
@@ -14,7 +19,7 @@
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <div class="lead">{{ post.content }}</div>
                 </div>
-                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                <div class="col-lg-4 col-lg-offset-2 col-sm-6">
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
@@ -38,7 +43,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 </div>
             </div>
 
@@ -47,6 +52,5 @@
 
     </div>
     <!-- /.content-section-b -->
-    {% endif %}
-{% endfor %}
+    {% endif %} {% endfor %}
 </section>
