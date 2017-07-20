@@ -6,17 +6,19 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Jul 2017 10:10:49 -0600</pubDate>
-    <lastBuildDate>Thu, 20 Jul 2017 10:10:49 -0600</lastBuildDate>
+    <pubDate>Thu, 20 Jul 2017 12:15:35 -0600</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2017 12:15:35 -0600</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>Google Web Fonts and&lt;br&gt;Font Awesome Icons</title>
-        <description>&lt;p&gt;This template features the ‘Lato’ font, part of the &lt;a href=&quot;http://www.google.com/fonts&quot;&gt;Google Web Font library&lt;/a&gt;, as well as &lt;a href=&quot;http://fontawesome.io&quot;&gt;icons from Font Awesome&lt;/a&gt;.&lt;/p&gt;
+        <title>Residential Life (2016 - Present) Residential / Peer Advisor at University of Texas - Dallas</title>
+        <description>&lt;p&gt;Supervised and served as mentor and advisor for a floor of 24 residents by leading through experience in academic, professional and personal matters. \ &lt;br /&gt;
+Managed various administrative duties including maintenance requests, indicent reports and customer service in front desk office. \ &lt;br /&gt;
+Utilized organizational and public speaking skills to create and implement social events for the Residence Hall.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 23 Sep 2014 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/services/2014/09/23/services-3/</link>
-        <guid isPermaLink="true">http://localhost:4000/services/2014/09/23/services-3/</guid>
+        <pubDate>Thu, 20 Jul 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/services/2017/07/20/services-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/services/2017/07/20/services-3/</guid>
         
         
         <category>Services</category>
@@ -24,14 +26,14 @@
       </item>
     
       <item>
-        <title>3D Device Mockups&lt;br&gt;by PSDCovers</title>
-        <description>&lt;p&gt;Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by &lt;a href=&quot;http://www.psdcovers.com/&quot;&gt;PSDCovers&lt;/a&gt;! Visit
-  their website to download some of their awesome, free photoshop actions!&lt;/p&gt;
+        <title>ASICA (Summer 2017) Information Technology and Databases Intern</title>
+        <description>&lt;p&gt;Interned at ASICA International in the Projects Division for Database Applications. \ &lt;br /&gt;
+  Developed a client application for a Credit Union to support accounting and human resources processes through Oracle Application Express and PL/SQL. \ &lt;br /&gt;
+  Designed and implemented a team project tracking tool to keep control of current tasks and goals.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 22 Sep 2014 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/services/2014/09/22/services-2/</link>
-        <guid isPermaLink="true">http://localhost:4000/services/2014/09/22/services-2/</guid>
+        <pubDate>Wed, 19 Jul 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/services/2017/07/19/services-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/services/2017/07/19/services-2/</guid>
         
         
         <category>Services</category>
@@ -39,12 +41,15 @@
       </item>
     
       <item>
-        <title>Death to the Stock Photo:&lt;br&gt;Special Thanks</title>
-        <description>&lt;p&gt;A special thanks to &lt;a href=&quot;http://join.deathtothestockphoto.com/&quot;&gt;Death to the Stock Photo&lt;/a&gt; for providing the photographs that you see in this template.  Visit their website to become a member!&lt;/p&gt;
+        <title>ZETA Designs (2017 - Present) Chief Technology Officer</title>
+        <description>&lt;p&gt;Co-Founded &lt;a href=&quot;https://zetadesignshn.com/&quot;&gt;ZETA Designs&lt;/a&gt; to develop web platforms for Honduran enterprises and businesses with professional and responsive frameworks. \ &lt;br /&gt;
+  Reached out and took control of building a client base through networking and professional communication. \ &lt;br /&gt;
+  Built and maintained the framework of operations and distribution of services for present and future clients. \ &lt;br /&gt;
+  Check our website to see our online &lt;a href=&quot;https://zetadesignshn.com/#zetaportfolio&quot;&gt;portfolio&lt;/a&gt; and services.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 21 Sep 2014 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/services/2014/09/21/services-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/services/2014/09/21/services-1/</guid>
+        <pubDate>Tue, 18 Jul 2017 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/services/2017/07/18/services-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/services/2017/07/18/services-1/</guid>
         
         
         <category>Services</category>
