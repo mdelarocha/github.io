@@ -2,7 +2,8 @@
 layout: default
 img: asica.png
 category: Services
-title: ASICA (Summer 2017)
+title: ASICA (Summer 2017) 
+
        Information Technology and Databases Intern
 description: |
 ---

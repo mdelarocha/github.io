@@ -2,7 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: ZETA Designs (2017 - Present)
+title: ZETA Designs (2017 - Present) 
+
        Chief Technology Officer
 description: |
 ---
