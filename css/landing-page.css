@@ -33,6 +33,7 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -121,12 +122,14 @@ h6 {
     color: #f8f8f8;
     background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .banner h2 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
     font-size: 3em;
+    background-size: cover;
 }
 
 .banner ul {
@@ -143,6 +146,7 @@ h6 {
     color: #f8f8f8;
     background: url(../img/banner2-bg.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .banner2 h2 {
