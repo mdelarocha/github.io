@@ -78,6 +78,16 @@ h6 {
     }
 }
 
+.me-pic {
+    height: 500px;
+    width: auto;
+    vertical-align: left;
+}
+
+.about-bullets {
+    align-content: right;
+}
+
 .network-name {
     text-transform: uppercase;
     font-size: 14px;

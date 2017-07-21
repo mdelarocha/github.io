@@ -2,7 +2,7 @@
 layout: default
 img: utdallas.png
 category: Services
-title: Residential Life (2016 - Present) 
+title: Residential Life (2016 - Present)  
 
        Residential / Peer Advisor at University of Texas - Dallas
 description: |
